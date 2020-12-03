@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>06AC6E58-0109-468D-8112-E643C5FF682F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>06AC6E58-0109-468D-8112-E643C5FF682F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Clima-elbtvzxonezugbfaculzqyvzsbro</string>
+			<key>timeStartedRecording</key>
+			<real>628703267.45130503</real>
+			<key>timeStoppedRecording</key>
+			<real>628703278.71107697</real>
+			<key>title</key>
+			<string>Build target Clima</string>
+			<key>uniqueIdentifier</key>
+			<string>06AC6E58-0109-468D-8112-E643C5FF682F</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

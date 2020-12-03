@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "070ea51f554cf5c62d4768366b4a9cf8"
+build_time: [1607010467, 461322000]
+inputs:
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Clima-iOS13/Clima/Controller/WeatherViewController.swift": [1604668378, 47289729]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Clima-iOS13/Clima/AppDelegate.swift": [1603988306, 209091663]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Clima-iOS13/Clima/Model/WeatherManager.swift": [1604668378, 56405306]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Clima-iOS13/Clima/SceneDelegate.swift": [1603988306, 222981811]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Clima-iOS13/Clima/Model/WeatherModel.swift": [1604089891, 644660592]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Clima-iOS13/Clima/Model/WeatherData.swift": [1604086589, 765426517]
